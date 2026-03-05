@@ -1,0 +1,26 @@
+# 📊 TaxPal - Accounting Made Simple
+
+TaxPal is a modern, responsive landing page designed for a small business accounting SaaS (Software as a Service) platform. It features a clean UI, pricing tables, testimonials, and a mobile-friendly design.
+
+## 🚀 Live Demo
+You can view the live website here: 
+[https://dilikshanamalshan-cloud.github.io/tax-pal/](https://dilikshanamalshan-cloud.github.io/tax-pal/)
+
+## ✨ Features
+* **Modern Hero Section:** Eye-catching design to grab user attention.
+* **Responsive Layout:** Fully optimized for Mobile, Tablet, and Desktop views.
+* **Tailwind CSS:** Styled using the latest Tailwind utility classes for a sleek look.
+* **Pricing Plans:** Clearly defined tiers for different business needs.
+* **Testimonials & FAQ:** Built-in sections for social proof and customer support.
+
+## 🛠️ Technologies Used
+* **HTML5:** Structure of the web page.
+* **Tailwind CSS:** For modern and fast styling (via CDN).
+* **GitHub Pages:** For free hosting and deployment.
+
+## 📂 Project Structure
+```text
+tax-pal/
+├── index.html       # Main HTML file
+├── potos/           # Images and logos folder
+└── README.md        # Project documentation
